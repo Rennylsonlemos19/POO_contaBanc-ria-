@@ -1,0 +1,8 @@
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\POO_contaBancaria.net\POO_contaBancaria.net\obj\Debug\POO_contaBancaria.net.csproj.AssemblyReference.cache
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\POO_contaBancaria.net\POO_contaBancaria.net\obj\Debug\POO_contaBancaria.net.csproj.SuggestedBindingRedirects.cache
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\POO_contaBancaria.net\POO_contaBancaria.net\obj\Debug\POO_contaBancaria.net.csproj.CoreCompileInputs.cache
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\POO_contaBancaria.net\POO_contaBancaria.net\bin\Debug\POO_contaBancaria.net.exe.config
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\POO_contaBancaria.net\POO_contaBancaria.net\bin\Debug\POO_contaBancaria.net.exe
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\POO_contaBancaria.net\POO_contaBancaria.net\bin\Debug\POO_contaBancaria.net.pdb
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\POO_contaBancaria.net\POO_contaBancaria.net\obj\Debug\POO_contaBancaria.net.exe
+C:\Users\renny\OneDrive\Área de Trabalho\CURSO.NET_C#\POO_contaBancaria.net\POO_contaBancaria.net\obj\Debug\POO_contaBancaria.net.pdb
